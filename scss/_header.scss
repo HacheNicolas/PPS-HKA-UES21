@@ -1,0 +1,9 @@
+/* Estilo del header */
+.headerColor{
+    background-color: map-get($colores, primario);
+    border-bottom: map-get($bordes, negro);
+    
+    .nav-item{
+        padding: 8px;
+   }
+}

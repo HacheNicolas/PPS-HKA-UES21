@@ -1,0 +1,15 @@
+/* Mapa para colores */
+$colores:(
+    primario: #748CAB,
+    secundario: #447604,
+    terciario: #6CC551, 
+    gris: rgb(122, 122, 122),
+    blanco: #F7F7F7,
+    negro: #1b1c1d,
+);
+
+/* Mapa para bordes */
+$bordes:(
+    negro:  1px solid black,
+    blanco: 1px solid white,
+);
